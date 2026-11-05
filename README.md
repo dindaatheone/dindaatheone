@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="./assets/cover.jfif" alt="Cover.jfif" width="100%" />
-</p>
 
-<h1 align="center">Adinda</h1>
+
+<h1 align="center">Adinda Ramadhani</h1>
 <p align="center"><b>Business Developer · Systems Designer</b></p>
 <p align="center"><i>deal closed, transaction made, repeat.</i></p>
 
