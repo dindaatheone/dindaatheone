@@ -53,9 +53,3 @@ Three repositories that work as a single system: risk, intelligence, and capital
 **[Klausindo](https://github.com/dindaatheone/Klausindo)** | AI-powered Indonesian legal assistant for document drafting and regulatory research. Grounded in the current legal regime: KUHP Nasional, KUHAP 2025, and UU PDP. It runs on a live database of Indonesian statutory provisions (Pasal ID), which produces jurisdiction-specific outputs for practitioners working in the post-2 January 2026 legal landscape.
 
 ---
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dindaatheone&bg_color=0d1117&color=c9d1d9&line=8b949e&point=ffffff&area=true&area_color=484f58&hide_border=true" width="100%" />
-</p>
