@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cover.jpg" alt="Cover" width="100%" />
+  <img src="./assets/cover.jfif" alt="Cover.jfif" width="100%" />
 </p>
 
 <h1 align="center">Adinda</h1>
@@ -15,7 +15,7 @@
 
 ## 🔨 Currently Building
 
-**[DailyCent](https://github.com/dindaatheone/DailyCent)** — *[one-line description of DailyCent]*
+**[DailyCent]** *A Household Financial for Couple*
 
 ---
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🏦 Meridian Private Bank — One Institutional Architecture
+## 🏦 Meridian Private Bank Suite
 
 Three repositories that work as a single system: risk, intelligence, and capital deployment for a private bank with a synthetic Asia-Pacific HNW/UHNW client universe.
 
@@ -50,9 +50,9 @@ Three repositories that work as a single system: risk, intelligence, and capital
 
 ## 📐 Other Builds
 
-**[Capital Vector](https://github.com/dindaatheone/Capital-Vector)** — Sovereignty of capital, read from first principles. Contract formation, commercial instruments, CISG, cross-border enforcement, and business architecture through three sequenced courses, a weekly publication, and a living glossary of terms of art. *Next.js, Supabase.*
+**[Capital Vector](https://github.com/dindaatheone/Capital-Vector)** | Sovereignty of capital, read from first principles. Contract formation, commercial instruments, CISG, cross-border enforcement, and business architecture through three sequenced courses, a weekly publication, and a living glossary of terms of art. *Next.js, Supabase.*
 
-**[Klausindo](https://github.com/dindaatheone/Klausindo)** — AI-powered Indonesian legal assistant for document drafting and regulatory research. Grounded in the current legal regime: KUHP Nasional, KUHAP 2025, and UU PDP. It runs on a live database of Indonesian statutory provisions (Pasal ID), which produces jurisdiction-specific outputs for practitioners working in the post-2 January 2026 legal landscape.
+**[Klausindo](https://github.com/dindaatheone/Klausindo)** | AI-powered Indonesian legal assistant for document drafting and regulatory research. Grounded in the current legal regime: KUHP Nasional, KUHAP 2025, and UU PDP. It runs on a live database of Indonesian statutory provisions (Pasal ID), which produces jurisdiction-specific outputs for practitioners working in the post-2 January 2026 legal landscape.
 
 ---
 
